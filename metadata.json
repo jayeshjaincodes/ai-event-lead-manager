@@ -1,0 +1,6 @@
+{
+  "name": "AI Event Lead Manager",
+  "description": "A full-stack, AI-native SaaS dashboard to capture, organize, summarize, and draft follow-ups for event leads with Gemini AI and PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
